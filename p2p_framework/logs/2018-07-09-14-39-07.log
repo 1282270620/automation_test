@@ -1,0 +1,9 @@
+2018-07-09 14:39:27,146 - record_log.py[line:33]-fuc:_console - INFO:--点击登陆，进入登陆页面
+2018-07-09 14:39:27,662 - record_log.py[line:33]-fuc:_console - INFO:--登录页面输入用户名和密码
+2018-07-09 14:39:27,871 - record_log.py[line:33]-fuc:_console - INFO:--输入验证码
+2018-07-09 14:39:28,303 - record_log.py[line:33]-fuc:_console - INFO:--点击登陆按钮，用户登陆
+2018-07-09 14:39:29,075 - record_log.py[line:33]-fuc:_console - INFO:--进入我投标的借款页面
+2018-07-09 14:39:29,455 - record_log.py[line:33]-fuc:_console - INFO:--获取货款列表信息
+2018-07-09 14:39:30,102 - record_log.py[line:33]-fuc:_console - INFO:--后端管理员登陆页面，输入用户名和密码
+2018-07-09 14:39:30,302 - record_log.py[line:33]-fuc:_console - INFO:--后端页面，输入验证码
+2018-07-09 14:39:30,647 - record_log.py[line:33]-fuc:_console - INFO:--点击后端登陆按钮

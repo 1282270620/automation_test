@@ -1,0 +1,26 @@
+setUpClass 正在执行中~~~~~
+setUpClass 执行完成~~~~~
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 执行完成~~~~~
+test_info_assert 正在执行中~~~~~
+test_info_assert 执行完成~~~~~
+test_mortage 正在执行中~~~~~
+test_mortage 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 44, in test_mortage
+    release_mortgage(self.driver)
+  File "C:\mydemo\p2p_framework\common\ReleaseMortgage.py", line 19, in release_mortgage
+    DefineFlash.upload_picture()
+  File "C:\mydemo\p2p_framework\utils\setFlash.py", line 60, in upload_picture
+    self.screen.click(offset_Path)
+jpype._jexception.org.sikuli.script.FindFailedPyRaisable: FindFailed: C:/mydemo/p2p_framework/testData/select_png.png: (68x26) in S(0)[0,0 1600x900] E:Y, T:3.0
+  Line 2782, in file Region.java
+
+
+test_my_investment 正在执行中~~~~~
+test_my_investment 执行完成~~~~~
+test_pledge 正在执行中~~~~~
+test_pledge 执行完成~~~~~
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~

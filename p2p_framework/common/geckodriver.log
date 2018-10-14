@@ -1,0 +1,18 @@
+1531133570484	geckodriver	INFO	geckodriver 0.19.1
+1531133570491	geckodriver	INFO	Listening on 127.0.0.1:49532
+1531133571884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iJd35rCqV4wE"
+1531133573024	Marionette	INFO	Enabled via --marionette
+1531133574512	Marionette	INFO	Listening on port 49546
+1531133574514	Marionette	INFO	Listening on port 49546
+1531133575002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531133591126	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531133591133	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531133596506	geckodriver	INFO	geckodriver 0.19.1
+1531133596514	geckodriver	INFO	Listening on 127.0.0.1:49702
+1531133597826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DMf3KkUQKFP0"
+1531133598477	Marionette	INFO	Enabled via --marionette
+1531133599888	Marionette	INFO	Listening on port 49716
+1531133599898	Marionette	INFO	Listening on port 49716
+1531133600986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531133616498	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1531133616501	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

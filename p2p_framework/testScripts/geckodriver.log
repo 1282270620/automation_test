@@ -1,0 +1,1426 @@
+1530160791330	geckodriver	INFO	geckodriver 0.19.1
+1530160791340	geckodriver	INFO	Listening on 127.0.0.1:53624
+1530160792720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZRNgOcgxPpOC"
+1530160794407	Marionette	INFO	Enabled via --marionette
+1530160796350	Marionette	INFO	Listening on port 53630
+1530160796366	Marionette	INFO	Listening on port 53630
+1530160796860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530160796959	Marionette	INFO	New connections will no longer be accepted
+1530161161009	geckodriver	INFO	geckodriver 0.19.1
+1530161161019	geckodriver	INFO	Listening on 127.0.0.1:53743
+1530161162309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cvd61MtPcCMd"
+1530161163299	Marionette	INFO	Enabled via --marionette
+1530161164777	Marionette	INFO	Listening on port 53749
+1530161164794	Marionette	INFO	Listening on port 53749
+1530161165451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530161207740	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530169481880	geckodriver	INFO	geckodriver 0.19.1
+1530169481890	geckodriver	INFO	Listening on 127.0.0.1:55777
+1530169483360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j7UWw45llCJt"
+1530169484447	Marionette	INFO	Enabled via --marionette
+1530169486350	Marionette	INFO	Listening on port 55784
+1530169486366	Marionette	INFO	Listening on port 55784
+1530169486507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530169497175	Marionette	INFO	New connections will no longer be accepted
+1530169566812	geckodriver	INFO	geckodriver 0.19.1
+1530169566819	geckodriver	INFO	Listening on 127.0.0.1:55820
+1530169568049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.g7ohKEWi61gM"
+1530169569026	Marionette	INFO	Enabled via --marionette
+1530169570442	Marionette	INFO	Listening on port 55827
+1530169570465	Marionette	INFO	Listening on port 55827
+1530169571170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530169585963	Marionette	INFO	New connections will no longer be accepted
+1530169806653	geckodriver	INFO	geckodriver 0.19.1
+1530169806661	geckodriver	INFO	Listening on 127.0.0.1:55929
+1530169808092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dHCzABJ5ECM2"
+1530169809159	Marionette	INFO	Enabled via --marionette
+1530169810589	Marionette	INFO	Listening on port 55936
+1530169810602	Marionette	INFO	Listening on port 55936
+1530169811234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530169825700	Marionette	INFO	New connections will no longer be accepted
+1530170227030	geckodriver	INFO	geckodriver 0.19.1
+1530170227040	geckodriver	INFO	Listening on 127.0.0.1:56205
+1530170228520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cOGFsVuEzAur"
+1530170229206	Marionette	INFO	Enabled via --marionette
+1530170230477	Marionette	INFO	Listening on port 56211
+1530170230498	Marionette	INFO	Listening on port 56211
+1530170230529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530170245378	Marionette	INFO	New connections will no longer be accepted
+1530171664258	geckodriver	INFO	geckodriver 0.19.1
+1530171664268	geckodriver	INFO	Listening on 127.0.0.1:57152
+1530171665748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EjGpihV9Iklw"
+1530171666444	Marionette	INFO	Enabled via --marionette
+1530171667867	Marionette	INFO	Listening on port 57159
+1530171667884	Marionette	INFO	Listening on port 57159
+1530171668890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530171684849	Marionette	INFO	New connections will no longer be accepted
+1530171704414	geckodriver	INFO	geckodriver 0.19.1
+1530171704424	geckodriver	INFO	Listening on 127.0.0.1:57215
+1530171705874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.j7ZX5na64MUG"
+1530171706542	Marionette	INFO	Enabled via --marionette
+1530171707989	Marionette	INFO	Listening on port 57222
+1530171708027	Marionette	INFO	Listening on port 57222
+1530171709003	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530172144153	geckodriver	INFO	geckodriver 0.19.1
+1530172144163	geckodriver	INFO	Listening on 127.0.0.1:57302
+1530172145690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PAOc4udbBoDR"
+1530172146377	Marionette	INFO	Enabled via --marionette
+1530172147819	Marionette	INFO	Listening on port 57308
+1530172147834	Marionette	INFO	Listening on port 57308
+1530172148819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530172162778	Marionette	INFO	New connections will no longer be accepted
+1530172198518	geckodriver	INFO	geckodriver 0.19.1
+1530172198528	geckodriver	INFO	Listening on 127.0.0.1:57343
+1530172200022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.d1OtgoNSj9re"
+1530172200771	Marionette	INFO	Enabled via --marionette
+1530172202133	Marionette	INFO	Listening on port 57350
+1530172202152	Marionette	INFO	Listening on port 57350
+1530172203153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530172222470	Marionette	INFO	New connections will no longer be accepted
+1530172249629	geckodriver	INFO	geckodriver 0.19.1
+1530172249639	geckodriver	INFO	Listening on 127.0.0.1:57399
+1530172251114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ytRfoze4r6jv"
+1530172251816	Marionette	INFO	Enabled via --marionette
+1530172253204	Marionette	INFO	Listening on port 57406
+1530172253206	Marionette	INFO	Listening on port 57406
+1530172254235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530172270167	Marionette	INFO	New connections will no longer be accepted
+1530174307837	geckodriver	INFO	geckodriver 0.19.1
+1530174307845	geckodriver	INFO	Listening on 127.0.0.1:57690
+1530174309309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jFZeEFrXqqZG"
+1530174310505	Marionette	INFO	Enabled via --marionette
+1530174312023	Marionette	INFO	Listening on port 57696
+1530174312046	Marionette	INFO	Listening on port 57696
+1530174312427	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:57846
+1530174432557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.l8AXJNhFkiRo"
+1530174433587	Marionette	INFO	Enabled via --marionette
+1530174434960	Marionette	INFO	Listening on port 57852
+1530174434972	Marionette	INFO	Listening on port 57852
+1530174435711	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530174485740	geckodriver	INFO	geckodriver 0.19.1
+1530174485748	geckodriver	INFO	Listening on 127.0.0.1:57886
+1530174487171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NEPHiPbBjVwe"
+1530174488133	Marionette	INFO	Enabled via --marionette
+1530174489588	Marionette	INFO	Listening on port 57892
+1530174489604	Marionette	INFO	Listening on port 57892
+1530174490311	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530174665229	geckodriver	INFO	geckodriver 0.19.1
+1530174665239	geckodriver	INFO	Listening on 127.0.0.1:58043
+1530174666689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qdte9DGq758R"
+1530174667610	Marionette	INFO	Enabled via --marionette
+1530174668874	Marionette	INFO	Listening on port 58049
+1530174668951	Marionette	INFO	Listening on port 58049
+1530174669815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530174710430	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+efox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.G1Kymrh1iCAh"
+1530174711236	Marionette	INFO	Enabled via --marionette
+1530174712587	Marionette	INFO	Listening on port 58084
+1530174712602	Marionette	INFO	Listening on port 58084
+1530174713141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530174720430	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530174720433	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530174738414	geckodriver	INFO	geckodriver 0.19.1
+1530174738421	geckodriver	INFO	Listening on 127.0.0.1:58117
+1530174739879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eqGcgpH4z1b3"
+1530174740803	Marionette	INFO	Enabled via --marionette
+1530174742218	Marionette	INFO	Listening on port 58123
+1530174742242	Marionette	INFO	Listening on port 58123
+1530174743017	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:58175
+1530175119489	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GRpNKrosNpW5"
+1530175120694	Marionette	INFO	Enabled via --marionette
+1530175121928	Marionette	INFO	Listening on port 58182
+1530175121946	Marionette	INFO	Listening on port 58182
+1530175122619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175135742	Marionette	INFO	New connections will no longer be accepted
+1530175154799	geckodriver	INFO	geckodriver 0.19.1
+1530175154809	geckodriver	INFO	Listening on 127.0.0.1:58239
+1530175156249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tWHX2BH18jtY"
+1530175157166	Marionette	INFO	Enabled via --marionette
+1530175158572	Marionette	INFO	Listening on port 58246
+1530175158583	Marionette	INFO	Listening on port 58246
+1530175159375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175173639	Marionette	INFO	New connections will no longer be accepted
+1530175290218	geckodriver	INFO	geckodriver 0.19.1
+1530175290228	geckodriver	INFO	Listening on 127.0.0.1:58314
+1530175291688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IFGUaydYdZPE"
+1530175292660	Marionette	INFO	Enabled via --marionette
+1530175293895	Marionette	INFO	Listening on port 58321
+1530175293911	Marionette	INFO	Listening on port 58321
+1530175294813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175307934	Marionette	INFO	New connections will no longer be accepted
+1530175331177	geckodriver	INFO	geckodriver 0.19.1
+1530175331187	geckodriver	INFO	Listening on 127.0.0.1:58384
+1530175332707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZzloN1yn6vMH"
+1530175333645	Marionette	INFO	Enabled via --marionette
+1530175334983	Marionette	INFO	Listening on port 58391
+1530175335004	Marionette	INFO	Listening on port 58391
+1530175335825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175350662	Marionette	INFO	New connections will no longer be accepted
+1530175379654	geckodriver	INFO	geckodriver 0.19.1
+1530175379663	geckodriver	INFO	Listening on 127.0.0.1:58452
+1530175381009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.n9bvRwmVrgXI"
+1530175381896	Marionette	INFO	Enabled via --marionette
+1530175383228	Marionette	INFO	Listening on port 58458
+1530175383249	Marionette	INFO	Listening on port 58458
+1530175384139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175397236	Marionette	INFO	New connections will no longer be accepted
+1530175425669	geckodriver	INFO	geckodriver 0.19.1
+1530175425669	geckodriver	INFO	Listening on 127.0.0.1:58517
+1530175427149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.APe0jX6P7izz"
+1530175428036	Marionette	INFO	Enabled via --marionette
+1530175430977	Marionette	INFO	Listening on port 58524
+1530175431006	Marionette	INFO	Listening on port 58524
+1530175431274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175445759	Marionette	INFO	New connections will no longer be accepted
+1530175485902	geckodriver	INFO	geckodriver 0.19.1
+1530175485912	geckodriver	INFO	Listening on 127.0.0.1:58587
+1530175487342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.R4v4On8m4Wvl"
+1530175488301	Marionette	INFO	Enabled via --marionette
+1530175489604	Marionette	INFO	Listening on port 58593
+1530175489621	Marionette	INFO	Listening on port 58593
+1530175490461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175504632	Marionette	INFO	New connections will no longer be accepted
+1530175568312	geckodriver	INFO	geckodriver 0.19.1
+1530175568320	geckodriver	INFO	Listening on 127.0.0.1:58658
+1530175569769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8rIaQxYCWq4L"
+1530175570609	Marionette	INFO	Enabled via --marionette
+1530175571857	Marionette	INFO	Listening on port 58665
+1530175571874	Marionette	INFO	Listening on port 58665
+1530175572879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175586007	Marionette	INFO	New connections will no longer be accepted
+1530175710752	geckodriver	INFO	geckodriver 0.19.1
+1530175710752	geckodriver	INFO	Listening on 127.0.0.1:58725
+1530175712225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.CQFyLRJXTBsH"
+1530175713158	Marionette	INFO	Enabled via --marionette
+1530175714645	Marionette	INFO	Listening on port 58732
+1530175714656	Marionette	INFO	Listening on port 58732
+1530175715346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175730726	Marionette	INFO	New connections will no longer be accepted
+1530175808203	geckodriver	INFO	geckodriver 0.19.1
+1530175808213	geckodriver	INFO	Listening on 127.0.0.1:58798
+1530175809673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.87AxBFtHMIen"
+1530175810686	Marionette	INFO	Enabled via --marionette
+1530175811905	Marionette	INFO	Listening on port 58804
+1530175811984	Marionette	INFO	Listening on port 58804
+1530175812809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175825971	Marionette	INFO	New connections will no longer be accepted
+1530175888139	geckodriver	INFO	geckodriver 0.19.1
+1530175888149	geckodriver	INFO	Listening on 127.0.0.1:58866
+1530175889629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ffuLS1Y0jk3R"
+1530175890561	Marionette	INFO	Enabled via --marionette
+1530175891994	Marionette	INFO	Listening on port 58872
+1530175892008	Marionette	INFO	Listening on port 58872
+1530175892789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530175907436	Marionette	INFO	New connections will no longer be accepted
+1530175995469	geckodriver	INFO	geckodriver 0.19.1
+1530175995479	geckodriver	INFO	Listening on 127.0.0.1:58933
+1530175996939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.r22C5kG3xxrF"
+1530175997926	Marionette	INFO	Enabled via --marionette
+1530175999304	Marionette	INFO	Listening on port 58939
+1530175999314	Marionette	INFO	Listening on port 58939
+1530176000062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176013096	Marionette	INFO	New connections will no longer be accepted
+1530176321381	geckodriver	INFO	geckodriver 0.19.1
+1530176321391	geckodriver	INFO	Listening on 127.0.0.1:59021
+1530176322828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.QaNHI2HoLrYA"
+1530176323778	Marionette	INFO	Enabled via --marionette
+1530176325064	Marionette	INFO	Listening on port 59028
+1530176325086	Marionette	INFO	Listening on port 59028
+1530176325959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176340841	Marionette	INFO	New connections will no longer be accepted
+1530176414809	geckodriver	INFO	geckodriver 0.19.1
+1530176414819	geckodriver	INFO	Listening on 127.0.0.1:59093
+1530176416289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DKFZmgzSQkSn"
+1530176417227	Marionette	INFO	Enabled via --marionette
+1530176419955	Marionette	INFO	Listening on port 59100
+1530176419958	Marionette	INFO	Listening on port 59100
+1530176420428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176433569	Marionette	INFO	New connections will no longer be accepted
+1530176859409	geckodriver	INFO	geckodriver 0.19.1
+1530176859419	geckodriver	INFO	Listening on 127.0.0.1:59166
+1530176860859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DcHppC7GKk2B"
+1530176861841	Marionette	INFO	Enabled via --marionette
+1530176863273	Marionette	INFO	Listening on port 59172
+1530176863348	Marionette	INFO	Listening on port 59172
+1530176863994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176871211	Marionette	INFO	New connections will no longer be accepted
+1530176917416	geckodriver	INFO	geckodriver 0.19.1
+1530176917424	geckodriver	INFO	Listening on 127.0.0.1:59217
+1530176918889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Y22bc5eYqD53"
+1530176919818	Marionette	INFO	Enabled via --marionette
+1530176921239	Marionette	INFO	Listening on port 59224
+1530176921250	Marionette	INFO	Listening on port 59224
+1530176922024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176929217	Marionette	INFO	New connections will no longer be accepted
+1530176985659	geckodriver	INFO	geckodriver 0.19.1
+1530176985659	geckodriver	INFO	Listening on 127.0.0.1:59271
+1530176987109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IUclLlZGlbQN"
+1530176987983	Marionette	INFO	Enabled via --marionette
+1530176989366	Marionette	INFO	Listening on port 59278
+1530176989383	Marionette	INFO	Listening on port 59278
+1530176990227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530176998420	Marionette	INFO	New connections will no longer be accepted
+1530177149553	geckodriver	INFO	geckodriver 0.19.1
+1530177149560	geckodriver	INFO	Listening on 127.0.0.1:59324
+1530177151039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.au1FKIoc62zj"
+1530177152011	Marionette	INFO	Enabled via --marionette
+1530177153320	Marionette	INFO	Listening on port 59331
+1530177153339	Marionette	INFO	Listening on port 59331
+1530177154161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530177176354	geckodriver	INFO	geckodriver 0.19.1
+1530177176363	geckodriver	INFO	Listening on 127.0.0.1:59395
+1530177177769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.urofMINPPgOi"
+1530177178733	Marionette	INFO	Enabled via --marionette
+1530177179979	Marionette	INFO	Listening on port 59402
+1530177179998	Marionette	INFO	Listening on port 59402
+1530177180877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530177195822	Marionette	INFO	New connections will no longer be accepted
+1530177225268	geckodriver	INFO	geckodriver 0.19.1
+1530177225268	geckodriver	INFO	Listening on 127.0.0.1:59465
+1530177226748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.n97IOBozj0NB"
+1530177227630	Marionette	INFO	Enabled via --marionette
+1530177229081	Marionette	INFO	Listening on port 59472
+1530177229104	Marionette	INFO	Listening on port 59472
+1530177229880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530177243390	Marionette	INFO	New connections will no longer be accepted
+1530177266647	geckodriver	INFO	geckodriver 0.19.1
+1530177266654	geckodriver	INFO	Listening on 127.0.0.1:59544
+1530177268067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.CSWfV3aq39Pm"
+1530177268956	Marionette	INFO	Enabled via --marionette
+1530177270192	Marionette	INFO	Listening on port 59550
+1530177270265	Marionette	INFO	Listening on port 59550
+1530177271179	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530180647977	geckodriver	INFO	geckodriver 0.19.1
+1530180647986	geckodriver	INFO	Listening on 127.0.0.1:59955
+1530180649384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hH9Yv7Yy3NtY"
+1530180650370	Marionette	INFO	Enabled via --marionette
+1530180651923	Marionette	INFO	Listening on port 59962
+1530180651924	Marionette	INFO	Listening on port 59962
+1530180652505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530180657843	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530180696417	geckodriver	INFO	geckodriver 0.19.1
+1530180696424	geckodriver	INFO	Listening on 127.0.0.1:59999
+1530180697899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TmZG2BiivDOB"
+1530180698868	Marionette	INFO	Enabled via --marionette
+1530180700147	Marionette	INFO	Listening on port 60006
+1530180700171	Marionette	INFO	Listening on port 60006
+1530180701029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530180701182	Marionette	INFO	New connections will no longer be accepted
+1530180862059	geckodriver	INFO	geckodriver 0.19.1
+1530180862069	geckodriver	INFO	Listening on 127.0.0.1:60054
+1530180863529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fjqrISBWn98n"
+1530180864201	Marionette	INFO	Enabled via --marionette
+1530180865610	Marionette	INFO	Listening on port 60061
+1530180865626	Marionette	INFO	Listening on port 60061
+1530180866663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530180873838	Marionette	INFO	New connections will no longer be accepted
+1530180894560	geckodriver	INFO	geckodriver 0.19.1
+1530180894568	geckodriver	INFO	Listening on 127.0.0.1:60102
+1530180896036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PFg6OsNkzLnj"
+1530180896867	Marionette	INFO	Enabled via --marionette
+1530180898165	Marionette	INFO	Listening on port 60109
+1530180898239	Marionette	INFO	Listening on port 60109
+1530180899156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530180912673	Marionette	INFO	New connections will no longer be accepted
+1530180976725	geckodriver	INFO	geckodriver 0.19.1
+1530180976735	geckodriver	INFO	Listening on 127.0.0.1:60180
+1530180978208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lk3CcWw5gpqS"
+1530180979179	Marionette	INFO	Enabled via --marionette
+1530180980532	Marionette	INFO	Listening on port 60187
+1530180980547	Marionette	INFO	Listening on port 60187
+1530180981333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530180994662	Marionette	INFO	New connections will no longer be accepted
+1530181563000	geckodriver	INFO	geckodriver 0.19.1
+1530181563008	geckodriver	INFO	Listening on 127.0.0.1:60277
+1530181564429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Nv8p12fekjvW"
+1530181565363	Marionette	INFO	Enabled via --marionette
+1530181568434	Marionette	INFO	Listening on port 60285
+1530181568448	Marionette	INFO	Listening on port 60285
+1530181568579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530181581864	Marionette	INFO	New connections will no longer be accepted
+1530256700933	geckodriver	INFO	geckodriver 0.19.1
+1530256700943	geckodriver	INFO	Listening on 127.0.0.1:60207
+1530256702343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Vh7jM5hyYZvY"
+1530256703287	Marionette	INFO	Enabled via --marionette
+1530256704704	Marionette	INFO	Listening on port 60213
+1530256704721	Marionette	INFO	Listening on port 60213
+1530256705470	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60256
+1530256758827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.K1VEYFj3xYPE"
+1530256759815	Marionette	INFO	Enabled via --marionette
+1530256761411	Marionette	INFO	Listening on port 60264
+1530256761423	Marionette	INFO	Listening on port 60264
+1530256761950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60308
+1530256809353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GsRMzzAe5ufy"
+1530256810260	Marionette	INFO	Enabled via --marionette
+1530256811748	Marionette	INFO	Listening on port 60315
+1530256811759	Marionette	INFO	Listening on port 60315
+1530256812485	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60413
+1530256860433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9xyfFzM7EkmE"
+1530256861462	Marionette	INFO	Enabled via --marionette
+1530256862824	Marionette	INFO	Listening on port 60420
+1530256862905	Marionette	INFO	Listening on port 60420
+1530256863544	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60462
+1530256937676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9HUA8kKMDA9w"
+1530256938673	Marionette	INFO	Enabled via --marionette
+1530256940134	Marionette	INFO	Listening on port 60469
+1530256940135	Marionette	INFO	Listening on port 60469
+1530256940799	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530257011004	geckodriver	INFO	geckodriver 0.19.1
+1530257011014	geckodriver	INFO	Listening on 127.0.0.1:60513
+1530257012464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.EtNBdW3vORMD"
+1530257013145	Marionette	INFO	Enabled via --marionette
+1530257014470	Marionette	INFO	Listening on port 60520
+1530257014488	Marionette	INFO	Listening on port 60520
+1530257014491	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60576
+1530257159629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hVHDB1nKsetH"
+1530257160276	Marionette	INFO	Enabled via --marionette
+1530257161764	Marionette	INFO	Listening on port 60583
+1530257161776	Marionette	INFO	Listening on port 60583
+1530257162793	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:60646
+1530257228413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.R65mN2EtGNDR"
+1530257229072	Marionette	INFO	Enabled via --marionette
+1530257230626	Marionette	INFO	Listening on port 60652
+1530257230641	Marionette	INFO	Listening on port 60652
+1530257231535	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:61041
+1530258066513	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.TRUrZNdZEMJS"
+1530258067576	Marionette	INFO	Enabled via --marionette
+1530258069020	Marionette	INFO	Listening on port 61050
+1530258069039	Marionette	INFO	Listening on port 61050
+1530258069643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530258088957	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1530258109597	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:61122
+1530258116054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WxFwaeNyf4Uf"
+1530258117265	Marionette	INFO	Enabled via --marionette
+1530258119738	Marionette	INFO	Listening on port 61130
+1530258119850	Marionette	INFO	Listening on port 61130
+1530258120194	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:61205
+1530258153537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.c0IiKAwr8AUx"
+1530258155266	Marionette	INFO	Enabled via --marionette
+1530258158186	Marionette	INFO	Listening on port 61214
+1530258158231	Marionette	INFO	Listening on port 61214
+1530258158767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530258165497	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530258171718	geckodriver	INFO	geckodriver 0.19.1
+1530258171725	geckodriver	INFO	Listening on 127.0.0.1:61280
+1530258173120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gmRFJuu4EbeJ"
+1530258174088	Marionette	INFO	Enabled via --marionette
+1530258175453	Marionette	INFO	Listening on port 61287
+1530258175455	Marionette	INFO	Listening on port 61287
+1530258176241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530258233741	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530258233752	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+ozprofile.EZHmNJOn4UJo"
+1530258204206	Marionette	INFO	Enabled via --marionette
+1530258205631	Marionette	INFO	Listening on port 61353
+1530258205641	Marionette	INFO	Listening on port 61353
+1530258206617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530258217665	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530258226371	geckodriver	INFO	geckodriver 0.19.1
+1530258226381	geckodriver	INFO	Listening on 127.0.0.1:61419
+1530258227821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tUIUFo4lZP0S"
+1530258228863	Marionette	INFO	Enabled via --marionette
+1530258230388	Marionette	INFO	Listening on port 61425
+1530258230389	Marionette	INFO	Listening on port 61425
+1530258230948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530258234933	Marionette	INFO	New connections will no longer be accepted
+1530262962009	geckodriver	INFO	geckodriver 0.19.1
+1530262962009	geckodriver	INFO	Listening on 127.0.0.1:64596
+1530262963465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.O8r27MaA62d0"
+1530262965040	Marionette	INFO	Enabled via --marionette
+1530262969713	Marionette	INFO	Listening on port 64603
+1530262971296	Marionette	INFO	Listening on port 64603
+1530262971313	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+1530263036380	geckodriver	INFO	geckodriver 0.19.1
+1530263036389	geckodriver	INFO	Listening on 127.0.0.1:64743
+1530263037789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.c2PWQFdkpyfw"
+1530263038914	Marionette	INFO	Enabled via --marionette
+1530263040304	Marionette	INFO	Listening on port 64749
+1530263040325	Marionette	INFO	Listening on port 64749
+1530263040911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263051841	Marionette	INFO	New connections will no longer be accepted
+1530263206003	geckodriver	INFO	geckodriver 0.19.1
+1530263206012	geckodriver	INFO	Listening on 127.0.0.1:64863
+1530263207425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xuM9h3fiScLb"
+1530263208376	Marionette	INFO	Enabled via --marionette
+1530263209803	Marionette	INFO	Listening on port 64870
+1530263209817	Marionette	INFO	Listening on port 64870
+1530263210549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263224879	Marionette	INFO	New connections will no longer be accepted
+1530263237209	geckodriver	INFO	geckodriver 0.19.1
+1530263237216	geckodriver	INFO	Listening on 127.0.0.1:64981
+1530263238618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VxrZoorcqW1n"
+1530263239631	Marionette	INFO	Enabled via --marionette
+1530263241139	Marionette	INFO	Listening on port 64988
+1530263241147	Marionette	INFO	Listening on port 64988
+1530263241724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263245617	Marionette	INFO	New connections will no longer be accepted
+1530263276055	geckodriver	INFO	geckodriver 0.19.1
+1530263276063	geckodriver	INFO	Listening on 127.0.0.1:65061
+1530263277479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3TD5jJkpYTCe"
+1530263278202	Marionette	INFO	Enabled via --marionette
+1530263279777	Marionette	INFO	Listening on port 65068
+1530263279785	Marionette	INFO	Listening on port 65068
+1530263280595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263284682	Marionette	INFO	New connections will no longer be accepted
+1530263450319	geckodriver	INFO	geckodriver 0.19.1
+1530263450327	geckodriver	INFO	Listening on 127.0.0.1:65170
+1530263451773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.a6hWrjgjCG8d"
+1530263452519	Marionette	INFO	Enabled via --marionette
+1530263453962	Marionette	INFO	Listening on port 65177
+1530263453973	Marionette	INFO	Listening on port 65177
+1530263454901	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263459088	Marionette	INFO	New connections will no longer be accepted
+1530263717723	geckodriver	INFO	geckodriver 0.19.1
+1530263717731	geckodriver	INFO	Listening on 127.0.0.1:65302
+1530263719133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DF0aKfYMsZyK"
+1530263720003	Marionette	INFO	Enabled via --marionette
+1530263721585	Marionette	INFO	Listening on port 65309
+1530263721601	Marionette	INFO	Listening on port 65309
+1530263722245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263724506	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530263724509	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530263732626	geckodriver	INFO	geckodriver 0.19.1
+1530263732634	geckodriver	INFO	Listening on 127.0.0.1:65361
+1530263734012	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bmlIzQAIsYeS"
+1530263734959	Marionette	INFO	Enabled via --marionette
+1530263736461	Marionette	INFO	Listening on port 65368
+1530263736470	Marionette	INFO	Listening on port 65368
+1530263737126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530263741890	Marionette	INFO	New connections will no longer be accepted
+1530264386812	geckodriver	INFO	geckodriver 0.19.1
+1530264386820	geckodriver	INFO	Listening on 127.0.0.1:49185
+1530264388234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5fEU7PGvvUtM"
+1530264389222	Marionette	INFO	Enabled via --marionette
+1530264390732	Marionette	INFO	Listening on port 49192
+1530264390748	Marionette	INFO	Listening on port 49192
+1530264391353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530264398070	Marionette	INFO	New connections will no longer be accepted
+1530264535161	geckodriver	INFO	geckodriver 0.19.1
+1530264535168	geckodriver	INFO	Listening on 127.0.0.1:49296
+1530264536579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DHshAyYJQQft"
+1530264537561	Marionette	INFO	Enabled via --marionette
+1530264539107	Marionette	INFO	Listening on port 49302
+1530264539118	Marionette	INFO	Listening on port 49302
+1530264539709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530264544515	Marionette	INFO	New connections will no longer be accepted
+1530264566747	geckodriver	INFO	geckodriver 0.19.1
+1530264566754	geckodriver	INFO	Listening on 127.0.0.1:49391
+1530264568190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.SvQVGPoJ9ZKQ"
+1530264569163	Marionette	INFO	Enabled via --marionette
+1530264570559	Marionette	INFO	Listening on port 49398
+1530264570579	Marionette	INFO	Listening on port 49398
+1530264571326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530264576230	Marionette	INFO	New connections will no longer be accepted
+1530264977808	geckodriver	INFO	geckodriver 0.19.1
+1530264977816	geckodriver	INFO	Listening on 127.0.0.1:49707
+1530264979214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3lLDSQSsWQfB"
+1530264980190	Marionette	INFO	Enabled via --marionette
+1530264981514	Marionette	INFO	Listening on port 49714
+1530264981534	Marionette	INFO	Listening on port 49714
+1530264982337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530264987038	Marionette	INFO	New connections will no longer be accepted
+1530265163929	geckodriver	INFO	geckodriver 0.19.1
+1530265163938	geckodriver	INFO	Listening on 127.0.0.1:49814
+1530265165365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XVIQQBv3C4cU"
+1530265166418	Marionette	INFO	Enabled via --marionette
+1530265167911	Marionette	INFO	Listening on port 49820
+1530265167921	Marionette	INFO	Listening on port 49820
+1530265168486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265172585	Marionette	INFO	New connections will no longer be accepted
+1530265202759	geckodriver	INFO	geckodriver 0.19.1
+1530265202767	geckodriver	INFO	Listening on 127.0.0.1:49892
+1530265204192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZrXEtWOMDqAk"
+1530265205127	Marionette	INFO	Enabled via --marionette
+1530265206598	Marionette	INFO	Listening on port 49898
+1530265206613	Marionette	INFO	Listening on port 49898
+1530265207320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265211465	Marionette	INFO	New connections will no longer be accepted
+1530265265509	geckodriver	INFO	geckodriver 0.19.1
+1530265265516	geckodriver	INFO	Listening on 127.0.0.1:49974
+1530265266998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.6Gw5ZNcIwEix"
+1530265267942	Marionette	INFO	Enabled via --marionette
+1530265269383	Marionette	INFO	Listening on port 49981
+1530265269391	Marionette	INFO	Listening on port 49981
+1530265270110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265278475	Marionette	INFO	New connections will no longer be accepted
+1530265360497	geckodriver	INFO	geckodriver 0.19.1
+1530265360505	geckodriver	INFO	Listening on 127.0.0.1:50251
+1530265361969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KCAyzwIMeKdH"
+1530265362968	Marionette	INFO	Enabled via --marionette
+1530265364437	Marionette	INFO	Listening on port 50258
+1530265364447	Marionette	INFO	Listening on port 50258
+1530265365088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265371762	Marionette	INFO	New connections will no longer be accepted
+1530265751497	geckodriver	INFO	geckodriver 0.19.1
+1530265751505	geckodriver	INFO	Listening on 127.0.0.1:50431
+1530265752903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WsjFE6S2zY1C"
+1530265753844	Marionette	INFO	Enabled via --marionette
+1530265755330	Marionette	INFO	Listening on port 50438
+1530265755340	Marionette	INFO	Listening on port 50438
+1530265756012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265763055	Marionette	INFO	New connections will no longer be accepted
+1530265794079	geckodriver	INFO	geckodriver 0.19.1
+1530265794087	geckodriver	INFO	Listening on 127.0.0.1:50529
+1530265795523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WGC82dGPEp5o"
+1530265796605	Marionette	INFO	Enabled via --marionette
+1530265797919	Marionette	INFO	Listening on port 50537
+1530265797996	Marionette	INFO	Listening on port 50537
+1530265798721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265803854	Marionette	INFO	New connections will no longer be accepted
+1530265859612	geckodriver	INFO	geckodriver 0.19.1
+1530265859619	geckodriver	INFO	Listening on 127.0.0.1:50654
+1530265861068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hCgoP8jIWp7M"
+1530265862061	Marionette	INFO	Enabled via --marionette
+1530265863420	Marionette	INFO	Listening on port 50661
+1530265863439	Marionette	INFO	Listening on port 50661
+1530265864184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530265869196	Marionette	INFO	New connections will no longer be accepted
+1530266208614	geckodriver	INFO	geckodriver 0.19.1
+1530266208622	geckodriver	INFO	Listening on 127.0.0.1:50835
+1530266210078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.PqTWRjC3fvHS"
+1530266211015	Marionette	INFO	Enabled via --marionette
+1530266212432	Marionette	INFO	Listening on port 50845
+1530266212445	Marionette	INFO	Listening on port 50845
+1530266213188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530266218239	Marionette	INFO	New connections will no longer be accepted
+1530266276998	geckodriver	INFO	geckodriver 0.19.1
+1530266277006	geckodriver	INFO	Listening on 127.0.0.1:50952
+1530266278442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.wgGN4Riu203n"
+1530266279487	Marionette	INFO	Enabled via --marionette
+1530266280823	Marionette	INFO	Listening on port 50960
+1530266280901	Marionette	INFO	Listening on port 50960
+1530266281564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530266286529	Marionette	INFO	New connections will no longer be accepted
+1530266327285	geckodriver	INFO	geckodriver 0.19.1
+1530266327294	geckodriver	INFO	Listening on 127.0.0.1:51054
+1530266328749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Y0S5cJasemPX"
+1530266329667	Marionette	INFO	Enabled via --marionette
+1530266331146	Marionette	INFO	Listening on port 51061
+1530266331161	Marionette	INFO	Listening on port 51061
+1530266331879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530266343379	Marionette	INFO	New connections will no longer be accepted
+1530267873542	geckodriver	INFO	geckodriver 0.19.1
+1530267873550	geckodriver	INFO	Listening on 127.0.0.1:51746
+1530267875054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.henFQJ1W87tG"
+1530267876771	Marionette	INFO	Enabled via --marionette
+1530267878685	Marionette	INFO	Listening on port 51753
+1530267878699	Marionette	INFO	Listening on port 51753
+1530267879177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530267894546	Marionette	INFO	New connections will no longer be accepted
+1530268055053	geckodriver	INFO	geckodriver 0.19.1
+1530268055060	geckodriver	INFO	Listening on 127.0.0.1:51894
+1530268056468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.YEF1Mm7q774d"
+1530268057594	Marionette	INFO	Enabled via --marionette
+1530268059149	Marionette	INFO	Listening on port 51901
+1530268059173	Marionette	INFO	Listening on port 51901
+1530268059587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530268074537	Marionette	INFO	New connections will no longer be accepted
+1530268088967	geckodriver	INFO	geckodriver 0.19.1
+1530268088977	geckodriver	INFO	Listening on 127.0.0.1:51980
+1530268090382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZolQiiBSAcNd"
+1530268091403	Marionette	INFO	Enabled via --marionette
+1530268092860	Marionette	INFO	Listening on port 51987
+1530268092870	Marionette	INFO	Listening on port 51987
+1530268093504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530268107893	Marionette	INFO	New connections will no longer be accepted
+1530351755486	geckodriver	INFO	geckodriver 0.19.1
+1530351755486	geckodriver	INFO	Listening on 127.0.0.1:15544
+1530351756905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DjnH4L9XdBJq"
+1530351757547	Marionette	INFO	Enabled via --marionette
+1530351758777	Marionette	INFO	Listening on port 15555
+1530351758849	Marionette	INFO	Listening on port 15555
+1530351758968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351759085	Marionette	INFO	New connections will no longer be accepted
+1530351778844	geckodriver	INFO	geckodriver 0.19.1
+1530351778844	geckodriver	INFO	Listening on 127.0.0.1:15609
+1530351780184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.y6087piiuptc"
+1530351780837	Marionette	INFO	Enabled via --marionette
+1530351782205	Marionette	INFO	Listening on port 15617
+1530351782219	Marionette	INFO	Listening on port 15617
+1530351783308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351802452	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530351802455	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530351827593	geckodriver	INFO	geckodriver 0.19.1
+1530351827593	geckodriver	INFO	Listening on 127.0.0.1:15725
+1530351828934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.9Ik67PpVezHM"
+1530351829561	Marionette	INFO	Enabled via --marionette
+1530351830919	Marionette	INFO	Listening on port 15734
+1530351830931	Marionette	INFO	Listening on port 15734
+1530351831001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351836492	Marionette	INFO	New connections will no longer be accepted
+1530351874124	geckodriver	INFO	geckodriver 0.19.1
+1530351874124	geckodriver	INFO	Listening on 127.0.0.1:15859
+1530351875515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eeKHIhNsgygq"
+1530351876140	Marionette	INFO	Enabled via --marionette
+1530351877431	Marionette	INFO	Listening on port 15870
+1530351877443	Marionette	INFO	Listening on port 15870
+1530351877564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351891036	Marionette	INFO	New connections will no longer be accepted
+1530351899080	geckodriver	INFO	geckodriver 0.19.1
+1530351899080	geckodriver	INFO	Listening on 127.0.0.1:15963
+1530351900391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.VnHJwJCt9w6O"
+1530351901087	Marionette	INFO	Enabled via --marionette
+1530351902329	Marionette	INFO	Listening on port 15974
+1530351902341	Marionette	INFO	Listening on port 15974
+1530351902453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351915507	Marionette	INFO	New connections will no longer be accepted
+1530351959145	geckodriver	INFO	geckodriver 0.19.1
+1530351959160	geckodriver	INFO	Listening on 127.0.0.1:16130
+1530351960533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.GVNS9qFAypOT"
+1530351961174	Marionette	INFO	Enabled via --marionette
+1530351962440	Marionette	INFO	Listening on port 16140
+1530351962451	Marionette	INFO	Listening on port 16140
+1530351962598	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530351983918	Marionette	INFO	New connections will no longer be accepted
+1530352018808	geckodriver	INFO	geckodriver 0.19.1
+1530352018808	geckodriver	INFO	Listening on 127.0.0.1:16272
+1530352020196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KDrdL28U895J"
+1530352020868	Marionette	INFO	Enabled via --marionette
+1530352022252	Marionette	INFO	Listening on port 16281
+1530352022268	Marionette	INFO	Listening on port 16281
+1530352023387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530352035221	Marionette	INFO	New connections will no longer be accepted
+1530352076058	geckodriver	INFO	geckodriver 0.19.1
+1530352076066	geckodriver	INFO	Listening on 127.0.0.1:16501
+1530352077390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P4jc0bG36aDP"
+1530352078049	Marionette	INFO	Enabled via --marionette
+1530352079480	Marionette	INFO	Listening on port 16512
+1530352079481	Marionette	INFO	Listening on port 16512
+1530352080588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530352091536	Marionette	INFO	New connections will no longer be accepted
+1530352163061	geckodriver	INFO	geckodriver 0.19.1
+1530352163076	geckodriver	INFO	Listening on 127.0.0.1:16704
+1530352164387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tcPEPK3i6ric"
+1530352165063	Marionette	INFO	Enabled via --marionette
+1530352166515	Marionette	INFO	Listening on port 16714
+1530352166524	Marionette	INFO	Listening on port 16714
+1530352167580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530352169112	Marionette	INFO	New connections will no longer be accepted
+1530352805885	geckodriver	INFO	geckodriver 0.19.1
+1530352805892	geckodriver	INFO	Listening on 127.0.0.1:17926
+1530352807137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.5W9cyrnqbBOA"
+1530352808275	Marionette	INFO	Enabled via --marionette
+1530352809754	Marionette	INFO	Listening on port 17936
+1530352809765	Marionette	INFO	Listening on port 17936
+1530352810288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530352822876	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1530352944612	geckodriver	INFO	geckodriver 0.19.1
+1530352944619	geckodriver	INFO	Listening on 127.0.0.1:18254
+1530352945807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eHs1FFgf2j2Z"
+1530352946769	Marionette	INFO	Enabled via --marionette
+1530352948032	Marionette	INFO	Listening on port 18266
+1530352948052	Marionette	INFO	Listening on port 18266
+1530352948947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530352950855	Marionette	INFO	New connections will no longer be accepted
+1530354184102	geckodriver	INFO	geckodriver 0.19.1
+1530354184112	geckodriver	INFO	Listening on 127.0.0.1:21628
+1530354185651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.0RrgG3yFV9W6"
+1530354186687	Marionette	INFO	Enabled via --marionette
+1530354188331	Marionette	INFO	Listening on port 21639
+1530354188350	Marionette	INFO	Listening on port 21639
+1530354188883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354195680	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354197899	geckodriver	INFO	geckodriver 0.19.1
+1530354197907	geckodriver	INFO	Listening on 127.0.0.1:21729
+1530354199244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jvMDyv0Pkkxk"
+1530354201206	Marionette	INFO	Enabled via --marionette
+1530354202663	Marionette	INFO	Listening on port 21740
+1530354202673	Marionette	INFO	Listening on port 21740
+1530354202917	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+1530354215100	Marionette	INFO	New connections will no longer be accepted
+1530354225458	geckodriver	INFO	geckodriver 0.19.1
+1530354225458	geckodriver	INFO	Listening on 127.0.0.1:21885
+1530354226831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eDohQMkiKl6N"
+1530354227543	Marionette	INFO	Enabled via --marionette
+1530354228844	Marionette	INFO	Listening on port 21896
+1530354228861	Marionette	INFO	Listening on port 21896
+1530354228877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354232496	Marionette	INFO	New connections will no longer be accepted
+1530354245874	geckodriver	INFO	geckodriver 0.19.1
+1530354245882	geckodriver	INFO	Listening on 127.0.0.1:22012
+1530354247234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZzCS8bivs4pU"
+1530354247993	Marionette	INFO	Enabled via --marionette
+1530354249295	Marionette	INFO	Listening on port 22020
+1530354249312	Marionette	INFO	Listening on port 22020
+1530354249361	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:22271
+1530354348979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.l1BFn9jRSTqf"
+1530354349654	Marionette	INFO	Enabled via --marionette
+1530354351127	Marionette	INFO	Listening on port 22281
+1530354351136	Marionette	INFO	Listening on port 22281
+1530354352163	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:22555
+1530354455258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kcgRP0CRxyMf"
+1530354456750	Marionette	INFO	Enabled via --marionette
+1530354459090	Marionette	INFO	Listening on port 22565
+1530354459091	Marionette	INFO	Listening on port 22565
+1530354459467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354473983	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354473987	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354477502	geckodriver	INFO	geckodriver 0.19.1
+1530354477502	geckodriver	INFO	Listening on 127.0.0.1:22677
+1530354478984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KYZEo2NwHSvJ"
+1530354480078	Marionette	INFO	Enabled via --marionette
+1530354481501	Marionette	INFO	Listening on port 22688
+1530354481514	Marionette	INFO	Listening on port 22688
+1530354482185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354503214	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354503217	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530354507369	geckodriver	INFO	geckodriver 0.19.1
+1530354507369	geckodriver	INFO	Listening on 127.0.0.1:22799
+1530354508871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.t8KJpGWWIzBn"
+1530354509926	Marionette	INFO	Enabled via --marionette
+1530354511191	Marionette	INFO	Listening on port 22810
+1530354511211	Marionette	INFO	Listening on port 22810
+1530354512016	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:23064
+1530354608206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ScmWtAQm3KUL"
+1530354609257	Marionette	INFO	Enabled via --marionette
+1530354610479	Marionette	INFO	Listening on port 23074
+1530354610499	Marionette	INFO	Listening on port 23074
+1530354611345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354638741	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354638743	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530354643934	geckodriver	INFO	geckodriver 0.19.1
+1530354643941	geckodriver	INFO	Listening on 127.0.0.1:23220
+1530354645394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ffTjqSWOJkqv"
+1530354646065	Marionette	INFO	Enabled via --marionette
+1530354647346	Marionette	INFO	Listening on port 23233
+1530354647349	Marionette	INFO	Listening on port 23233
+1530354647398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354652400	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354656016	geckodriver	INFO	geckodriver 0.19.1
+1530354656024	geckodriver	INFO	Listening on 127.0.0.1:23322
+1530354657545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OMgHa7jSEq2D"
+1530354658216	Marionette	INFO	Enabled via --marionette
+1530354659584	Marionette	INFO	Listening on port 23333
+1530354659595	Marionette	INFO	Listening on port 23333
+1530354660672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354662769	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354662773	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354859681	geckodriver	INFO	geckodriver 0.19.1
+1530354859681	geckodriver	INFO	Listening on 127.0.0.1:23728
+1530354861163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.IQIiQMl653wh"
+1530354861837	Marionette	INFO	Enabled via --marionette
+1530354863066	Marionette	INFO	Listening on port 23736
+1530354863086	Marionette	INFO	Listening on port 23736
+1530354863197	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530354906429	geckodriver	INFO	geckodriver 0.19.1
+1530354906429	geckodriver	INFO	Listening on 127.0.0.1:23914
+1530354907973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gvBUdiJfyknZ"
+1530354908649	Marionette	INFO	Enabled via --marionette
+1530354909978	Marionette	INFO	Listening on port 23922
+1530354910000	Marionette	INFO	Listening on port 23922
+1530354910057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354914951	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1530354919071	geckodriver	INFO	geckodriver 0.19.1
+1530354919078	geckodriver	INFO	Listening on 127.0.0.1:24009
+1530354920559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HodSJrewTZ80"
+1530354921296	Marionette	INFO	Enabled via --marionette
+1530354922669	Marionette	INFO	Listening on port 24017
+1530354922670	Marionette	INFO	Listening on port 24017
+1530354923747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530354948016	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530354948019	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530354954973	geckodriver	INFO	geckodriver 0.19.1
+1530354954981	geckodriver	INFO	Listening on 127.0.0.1:24173
+1530354956466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vI5c9FY3TY4l"
+1530354957119	Marionette	INFO	Enabled via --marionette
+1530354958379	Marionette	INFO	Listening on port 24183
+1530354958458	Marionette	INFO	Listening on port 24183
+1530354958541	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:24606
+1530355137367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.klOAuZISfKSP"
+1530355138383	Marionette	INFO	Enabled via --marionette
+1530355139652	Marionette	INFO	Listening on port 24615
+1530355139670	Marionette	INFO	Listening on port 24615
+1530355140483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355145532	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1530355146266	geckodriver	INFO	geckodriver 0.19.1
+1530355146273	geckodriver	INFO	Listening on 127.0.0.1:24727
+1530355147666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.sZt3LmcYrZAp"
+1530355148660	Marionette	INFO	Enabled via --marionette
+1530355150038	Marionette	INFO	Listening on port 24735
+1530355150115	Marionette	INFO	Listening on port 24735
+1530355150788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355153528	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1530355203602	geckodriver	INFO	geckodriver 0.19.1
+1530355203609	geckodriver	INFO	Listening on 127.0.0.1:24889
+1530355205117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tJNCCfuRtnwp"
+1530355206059	Marionette	INFO	Enabled via --marionette
+1530355207506	Marionette	INFO	Listening on port 24900
+1530355207524	Marionette	INFO	Listening on port 24900
+1530355208247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355218179	Marionette	INFO	New connections will no longer be accepted
+1530355218998	geckodriver	INFO	geckodriver 0.19.1
+1530355219008	geckodriver	INFO	Listening on 127.0.0.1:25014
+1530355220468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kBtTQ5jXh1s4"
+1530355221449	Marionette	INFO	Enabled via --marionette
+1530355222717	Marionette	INFO	Listening on port 25024
+1530355222730	Marionette	INFO	Listening on port 25024
+1530355223743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355228836	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355228842	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355233212	geckodriver	INFO	geckodriver 0.19.1
+1530355233221	geckodriver	INFO	Listening on 127.0.0.1:25115
+1530355234666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.mqDbGPQ8JDWt"
+1530355235466	Marionette	INFO	Enabled via --marionette
+1530355236663	Marionette	INFO	Listening on port 25124
+1530355236679	Marionette	INFO	Listening on port 25124
+1530355236687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355249263	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355249267	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355249975	geckodriver	INFO	geckodriver 0.19.1
+1530355249983	geckodriver	INFO	Listening on 127.0.0.1:25221
+1530355251393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.efVF7M87B4vJ"
+1530355252366	Marionette	INFO	Enabled via --marionette
+1530355253609	Marionette	INFO	Listening on port 25231
+1530355253623	Marionette	INFO	Listening on port 25231
+1530355254506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355258821	Marionette	INFO	New connections will no longer be accepted
+1530355332311	geckodriver	INFO	geckodriver 0.19.1
+1530355332321	geckodriver	INFO	Listening on 127.0.0.1:25474
+1530355333746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yMxCQbBNqW8o"
+1530355334742	Marionette	INFO	Enabled via --marionette
+1530355335965	Marionette	INFO	Listening on port 25485
+1530355336053	Marionette	INFO	Listening on port 25485
+1530355336867	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355337898	Marionette	INFO	New connections will no longer be accepted
+1530355337910	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355337914	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355338716	geckodriver	INFO	geckodriver 0.19.1
+1530355338724	geckodriver	INFO	Listening on 127.0.0.1:25521
+1530355339074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.l17vB5jCosDE"
+1530355339919	Marionette	INFO	Enabled via --marionette
+1530355341125	Marionette	INFO	Listening on port 25525
+1530355341143	Marionette	INFO	Listening on port 25525
+1530355342210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355343201	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530355347062	geckodriver	INFO	geckodriver 0.19.1
+1530355347069	geckodriver	INFO	Listening on 127.0.0.1:25569
+1530355348527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qJoCw43Pdb0D"
+1530355349443	Marionette	INFO	Enabled via --marionette
+1530355350625	Marionette	INFO	Listening on port 25580
+1530355350642	Marionette	INFO	Listening on port 25580
+1530355351637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355358145	Marionette	INFO	New connections will no longer be accepted
+1530355358968	geckodriver	INFO	geckodriver 0.19.1
+1530355358975	geckodriver	INFO	Listening on 127.0.0.1:25687
+1530355360448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ADEpeQX6HK23"
+1530355361485	Marionette	INFO	Enabled via --marionette
+1530355362718	Marionette	INFO	Listening on port 25695
+1530355362732	Marionette	INFO	Listening on port 25695
+1530355363599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530355367652	Marionette	INFO	New connections will no longer be accepted
+1530355658734	geckodriver	INFO	geckodriver 0.19.1
+1530355658734	geckodriver	INFO	Listening on 127.0.0.1:26279
+1530355660262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cQgVFzgqTt6a"
+1530355661410	Marionette	INFO	Enabled via --marionette
+1530355662584	Marionette	INFO	Listening on port 26292
+1530355662606	Marionette	INFO	Listening on port 26292
+1530355663436	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530355666371	Marionette	INFO	New connections will no longer be accepted
+1530355680281	geckodriver	INFO	geckodriver 0.19.1
+1530355680281	geckodriver	INFO	Listening on 127.0.0.1:26407
+1530355681748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fmJ5IbbHqeMI"
+1530355682479	Marionette	INFO	Enabled via --marionette
+1530355683849	Marionette	INFO	Listening on port 26418
+1530355683860	Marionette	INFO	Listening on port 26418
+1530355684879	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530355775660	geckodriver	INFO	geckodriver 0.19.1
+1530355775660	geckodriver	INFO	Listening on 127.0.0.1:26662
+1530355777157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.41BLKhmpEXng"
+1530355777859	Marionette	INFO	Enabled via --marionette
+1530355779171	Marionette	INFO	Listening on port 26671
+1530355779191	Marionette	INFO	Listening on port 26671
+1530355779241	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530355970106	geckodriver	INFO	geckodriver 0.19.1
+1530355970106	geckodriver	INFO	Listening on 127.0.0.1:27092
+1530355971604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.jO4SUJXIW7a5"
+1530355972669	Marionette	INFO	Enabled via --marionette
+1530355974044	Marionette	INFO	Listening on port 27103
+1530355974056	Marionette	INFO	Listening on port 27103
+1530355974767	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530356056075	geckodriver	INFO	geckodriver 0.19.1
+1530356056090	geckodriver	INFO	Listening on 127.0.0.1:27322
+1530356057588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.bhICquowZi7F"
+1530356058621	Marionette	INFO	Enabled via --marionette
+1530356059933	Marionette	INFO	Listening on port 27332
+1530356059955	Marionette	INFO	Listening on port 27332
+1530356060729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530356074561	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530356082446	geckodriver	INFO	geckodriver 0.19.1
+1530356082456	geckodriver	INFO	Listening on 127.0.0.1:27488
+1530356083906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.RQFyNumANc59"
+1530356084829	Marionette	INFO	Enabled via --marionette
+1530356086040	Marionette	INFO	Listening on port 27499
+1530356086118	Marionette	INFO	Listening on port 27499
+1530356087049	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530356719755	geckodriver	INFO	geckodriver 0.19.1
+1530356719770	geckodriver	INFO	Listening on 127.0.0.1:29049
+1530356721207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.b4tDl48o8iDJ"
+1530356722273	Marionette	INFO	Enabled via --marionette
+1530356723714	Marionette	INFO	Listening on port 29058
+1530356723729	Marionette	INFO	Listening on port 29058
+1530356724395	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:29268
+1530356793279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.eorH7wVvuhPF"
+1530356794378	Marionette	INFO	Enabled via --marionette
+1530356795906	Marionette	INFO	Listening on port 29279
+1530356795910	Marionette	INFO	Listening on port 29279
+1530356796403	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530356813518	geckodriver	INFO	geckodriver 0.19.1
+1530356813525	geckodriver	INFO	Listening on 127.0.0.1:29447
+1530356815000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Mam5AvIAPXY0"
+1530356816089	Marionette	INFO	Enabled via --marionette
+1530356817336	Marionette	INFO	Listening on port 29458
+1530356817353	Marionette	INFO	Listening on port 29458
+1530356818125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530356824456	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530356824459	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530356827762	geckodriver	INFO	geckodriver 0.19.1
+1530356827770	geckodriver	INFO	Listening on 127.0.0.1:29571
+1530356829190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.kttxk2Tyom4q"
+1530356830281	Marionette	INFO	Enabled via --marionette
+1530356831559	Marionette	INFO	Listening on port 29582
+1530356831577	Marionette	INFO	Listening on port 29582
+1530356832336	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530356954895	geckodriver	INFO	geckodriver 0.19.1
+1530356954895	geckodriver	INFO	Listening on 127.0.0.1:29930
+1530356956362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.MlHHAK93CCNY"
+1530356957059	Marionette	INFO	Enabled via --marionette
+1530356958358	Marionette	INFO	Listening on port 29939
+1530356958379	Marionette	INFO	Listening on port 29939
+1530356958450	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530356986389	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530356986390	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530358708050	geckodriver	INFO	geckodriver 0.19.1
+1530358708057	geckodriver	INFO	Listening on 127.0.0.1:34273
+1530358709517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.fuDqBxo3KKHH"
+1530358710582	Marionette	INFO	Enabled via --marionette
+1530358711848	Marionette	INFO	Listening on port 34284
+1530358711865	Marionette	INFO	Listening on port 34284
+1530358712669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530358717614	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530358717617	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530358721373	geckodriver	INFO	geckodriver 0.19.1
+1530358721381	geckodriver	INFO	Listening on 127.0.0.1:34392
+1530358722788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.AOGk25GfWX8f"
+1530358723516	Marionette	INFO	Enabled via --marionette
+1530358726230	Marionette	INFO	Listening on port 34401
+1530358726248	Marionette	INFO	Listening on port 34401
+1530358726419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530358730484	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530358730491	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530358733991	geckodriver	INFO	geckodriver 0.19.1
+1530358734003	geckodriver	INFO	Listening on 127.0.0.1:34499
+1530358735359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.cFYXgp4Lvscj"
+1530358736319	Marionette	INFO	Enabled via --marionette
+1530358737774	Marionette	INFO	Listening on port 34510
+1530358737784	Marionette	INFO	Listening on port 34510
+1530358738469	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+JavaScript error: chrome://browser/content/pageinfo/pageInfo.js, line 591: NS_ERROR_IN_PROGRESS: Component returned failure code: 0x804b000f (NS_ERROR_IN_PROGRESS) [nsICacheEntry.dataSize]
+1530358826252	geckodriver	INFO	geckodriver 0.19.1
+1530358826260	geckodriver	INFO	Listening on 127.0.0.1:34791
+1530358827662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HzNanGlHMVHX"
+1530358828660	Marionette	INFO	Enabled via --marionette
+1530358830072	Marionette	INFO	Listening on port 34802
+1530358830090	Marionette	INFO	Listening on port 34802
+1530358830781	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+1530359077276	geckodriver	INFO	geckodriver 0.19.1
+1530359077288	geckodriver	INFO	Listening on 127.0.0.1:35380
+1530359078655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KxfCHcPcmmfP"
+1530359079963	Marionette	INFO	Enabled via --marionette
+1530359081520	Marionette	INFO	Listening on port 35389
+1530359081525	Marionette	INFO	Listening on port 35389
+1530359081760	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+1530359116329	geckodriver	INFO	geckodriver 0.19.1
+1530359116338	geckodriver	INFO	Listening on 127.0.0.1:35593
+1530359117757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XQuKV82hEcSC"
+1530359118738	Marionette	INFO	Enabled via --marionette
+1530359119991	Marionette	INFO	Listening on port 35602
+1530359120064	Marionette	INFO	Listening on port 35602
+1530359120893	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359298693	geckodriver	INFO	geckodriver 0.19.1
+1530359298709	geckodriver	INFO	Listening on 127.0.0.1:36042
+1530359300175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.HsOSjIOHgf9J"
+1530359301279	Marionette	INFO	Enabled via --marionette
+1530359303194	Marionette	INFO	Listening on port 36055
+1530359303214	Marionette	INFO	Listening on port 36055
+1530359303318	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359399025	geckodriver	INFO	geckodriver 0.19.1
+1530359399041	geckodriver	INFO	Listening on 127.0.0.1:36365
+1530359400477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1v4v5VdFxYhL"
+1530359401577	Marionette	INFO	Enabled via --marionette
+1530359402957	Marionette	INFO	Listening on port 36377
+1530359402969	Marionette	INFO	Listening on port 36377
+1530359403651	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359445129	geckodriver	INFO	geckodriver 0.19.1
+1530359445136	geckodriver	INFO	Listening on 127.0.0.1:36603
+1530359446536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZodR0tjbyOme"
+1530359447563	Marionette	INFO	Enabled via --marionette
+1530359451292	Marionette	INFO	Listening on port 36614
+1530359451904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359451947	Marionette	INFO	Listening on port 36614
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359579191	geckodriver	INFO	geckodriver 0.19.1
+1530359579191	geckodriver	INFO	Listening on 127.0.0.1:36983
+1530359580689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.LDgtXdUWMz3i"
+1530359581779	Marionette	INFO	Enabled via --marionette
+1530359583349	Marionette	INFO	Listening on port 36991
+1530359583393	Marionette	INFO	Listening on port 36991
+1530359583856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359588448	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530359588455	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359591917	geckodriver	INFO	geckodriver 0.19.1
+1530359591925	geckodriver	INFO	Listening on 127.0.0.1:37091
+1530359593415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KcadCGLnp0eu"
+1530359594216	Marionette	INFO	Enabled via --marionette
+1530359595455	Marionette	INFO	Listening on port 37103
+1530359595473	Marionette	INFO	Listening on port 37103
+1530359596578	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359769313	geckodriver	INFO	geckodriver 0.19.1
+1530359769328	geckodriver	INFO	Listening on 127.0.0.1:37645
+1530359770763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.NaRNmIZ9F0Mo"
+1530359771885	Marionette	INFO	Enabled via --marionette
+1530359773366	Marionette	INFO	Listening on port 37654
+1530359773387	Marionette	INFO	Listening on port 37654
+1530359773989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359780992	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359784988	geckodriver	INFO	geckodriver 0.19.1
+1530359784998	geckodriver	INFO	Listening on 127.0.0.1:37768
+1530359786460	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.OnNSW7a99uIB"
+1530359787520	Marionette	INFO	Enabled via --marionette
+1530359788857	Marionette	INFO	Listening on port 37779
+1530359788938	Marionette	INFO	Listening on port 37779
+1530359789622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359795421	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530359795427	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359812632	geckodriver	INFO	geckodriver 0.19.1
+1530359812639	geckodriver	INFO	Listening on 127.0.0.1:37886
+1530359813993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.MCmIJPhbIFMR"
+1530359816644	Marionette	INFO	Enabled via --marionette
+1530359818323	Marionette	INFO	Listening on port 37897
+1530359818325	Marionette	INFO	Listening on port 37897
+1530359819244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359827153	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530359827155	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359831343	geckodriver	INFO	geckodriver 0.19.1
+1530359831350	geckodriver	INFO	Listening on 127.0.0.1:37993
+1530359832818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.SvVm9jDRu2LD"
+1530359833801	Marionette	INFO	Enabled via --marionette
+1530359835086	Marionette	INFO	Listening on port 38003
+1530359835100	Marionette	INFO	Listening on port 38003
+1530359835934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359839609	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359843064	geckodriver	INFO	geckodriver 0.19.1
+1530359843072	geckodriver	INFO	Listening on 127.0.0.1:38100
+1530359844470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.JElacZO8p7pe"
+1530359845469	Marionette	INFO	Enabled via --marionette
+1530359846943	Marionette	INFO	Listening on port 38111
+1530359846959	Marionette	INFO	Listening on port 38111
+1530359847610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530359852268	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530359852275	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530359854706	geckodriver	INFO	geckodriver 0.19.1
+1530359854714	geckodriver	INFO	Listening on 127.0.0.1:38215
+1530359856135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.b6yzSlgMsocZ"
+1530359857225	Marionette	INFO	Enabled via --marionette
+1530359858700	Marionette	INFO	Listening on port 38224
+1530359858711	Marionette	INFO	Listening on port 38224
+1530359859258	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530359926194	geckodriver	INFO	geckodriver 0.19.1
+1530359926194	geckodriver	INFO	Listening on 127.0.0.1:38490
+1530359927723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tOAPNjRiO4G2"
+1530359928388	Marionette	INFO	Enabled via --marionette
+1530359929664	Marionette	INFO	Listening on port 38500
+1530359929676	Marionette	INFO	Listening on port 38500
+1530359929805	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530360474872	geckodriver	INFO	geckodriver 0.19.1
+1530360474880	geckodriver	INFO	Listening on 127.0.0.1:40785
+1530360476342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.g68aCQrLLC0w"
+1530360477108	Marionette	INFO	Enabled via --marionette
+1530360478666	Marionette	INFO	Listening on port 40796
+1530360478667	Marionette	INFO	Listening on port 40796
+1530360479475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530360521370	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 395: Error: OS.File has been shut down. Rejecting post to stat
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WIJ5Ly91cjE5"
+1530360534822	Marionette	INFO	Enabled via --marionette
+1530360536052	Marionette	INFO	Listening on port 41062
+1530360536066	Marionette	INFO	Listening on port 41062
+1530360536085	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.20.136/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530360544181	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530360544187	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530443232923	geckodriver	INFO	geckodriver 0.19.1
+1530443232923	geckodriver	INFO	Listening on 127.0.0.1:1872
+1530443234327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.LRQRAaz34Hl8"
+1530443235543	Marionette	INFO	Enabled via --marionette
+1530443237153	Marionette	INFO	Listening on port 1879
+1530443237170	Marionette	INFO	Listening on port 1879
+1530443237447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530443251216	geckodriver	INFO	geckodriver 0.19.1
+1530443251224	geckodriver	INFO	Listening on 127.0.0.1:1913
+1530443252532	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4rEEx3LJZ9fj"
+1530443253203	Marionette	INFO	Enabled via --marionette
+1530443254649	Marionette	INFO	Listening on port 1919
+1530443254650	Marionette	INFO	Listening on port 1919
+1530443255700	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530443333464	geckodriver	INFO	geckodriver 0.19.1
+1530443333464	geckodriver	INFO	Listening on 127.0.0.1:1956
+1530443334806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ed7cZRxDY8xK"
+1530443335476	Marionette	INFO	Enabled via --marionette
+1530443336694	Marionette	INFO	Listening on port 1963
+1530443336765	Marionette	INFO	Listening on port 1963
+1530443336854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530443342826	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530443343622	geckodriver	INFO	geckodriver 0.19.1
+1530443343638	geckodriver	INFO	Listening on 127.0.0.1:1992
+1530443344964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.MKbRkcFCq9ck"
+1530443345720	Marionette	INFO	Enabled via --marionette
+1530443346934	Marionette	INFO	Listening on port 1999
+1530443346950	Marionette	INFO	Listening on port 1999
+1530443347018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530443352527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530443377587	geckodriver	INFO	geckodriver 0.19.1
+1530443377587	geckodriver	INFO	Listening on 127.0.0.1:2034
+1530443378976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gHenVYebi8un"
+1530443379935	Marionette	INFO	Enabled via --marionette
+1530443381147	Marionette	INFO	Listening on port 2041
+1530443381163	Marionette	INFO	Listening on port 2041
+1530443382160	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:2068
+1530443405545	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.iTO6f1AvNE21"
+1530443406323	Marionette	INFO	Enabled via --marionette
+1530443407565	Marionette	INFO	Listening on port 2079
+1530443407628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530443407666	Marionette	INFO	Listening on port 2079
+1530443412145	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530443412149	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530445555403	geckodriver	INFO	geckodriver 0.19.1
+1530445555419	geckodriver	INFO	Listening on 127.0.0.1:3608
+1530445556776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.N0E1IVj4b48Q"
+1530445557468	Marionette	INFO	Enabled via --marionette
+1530445558690	Marionette	INFO	Listening on port 3615
+1530445558761	Marionette	INFO	Listening on port 3615
+1530445558845	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:3648
+1530445582142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.2EvoKdJZwEnD"
+1530445582781	Marionette	INFO	Enabled via --marionette
+1530445584004	Marionette	INFO	Listening on port 3656
+1530445584092	Marionette	INFO	Listening on port 3656
+1530445584164	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530445623113	geckodriver	INFO	geckodriver 0.19.1
+1530445623113	geckodriver	INFO	Listening on 127.0.0.1:3800
+1530445624501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gvaxwS6Q9NM6"
+1530445625439	Marionette	INFO	Enabled via --marionette
+1530445626863	Marionette	INFO	Listening on port 3807
+1530445626873	Marionette	INFO	Listening on port 3807
+1530445627708	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+.1:3837
+1530445651054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.qWCWeRUMIFs2"
+1530445652046	Marionette	INFO	Enabled via --marionette
+1530445653279	Marionette	INFO	Listening on port 3844
+1530445653370	Marionette	INFO	Listening on port 3844
+1530445654166	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+1530491587838	geckodriver	INFO	geckodriver 0.19.1
+1530491587848	geckodriver	INFO	Listening on 127.0.0.1:49506
+1530491589365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.BzIgXPGlhtcY"
+1530491591036	Marionette	INFO	Enabled via --marionette
+1530491592734	Marionette	INFO	Listening on port 49513
+1530491592743	Marionette	INFO	Listening on port 49513
+1530491592994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530491599075	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530491599716	geckodriver	INFO	geckodriver 0.19.1
+1530491599724	geckodriver	INFO	Listening on 127.0.0.1:49543
+1530491601201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.3dIQB73Wh6E3"
+1530491602126	Marionette	INFO	Enabled via --marionette
+1530491603354	Marionette	INFO	Listening on port 49550
+1530491603430	Marionette	INFO	Listening on port 49550
+1530491604336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530491633929	geckodriver	INFO	geckodriver 0.19.1
+1530491633937	geckodriver	INFO	Listening on 127.0.0.1:49589
+1530491635272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yaXNhRwv4TPK"
+1530491636196	Marionette	INFO	Enabled via --marionette
+1530491637388	Marionette	INFO	Listening on port 49596
+1530491637401	Marionette	INFO	Listening on port 49596
+1530491638397	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530491763429	geckodriver	INFO	geckodriver 0.19.1
+1530491763439	geckodriver	INFO	Listening on 127.0.0.1:49848
+1530491764761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.P7vWm2LvJDEk"
+1530491765781	Marionette	INFO	Enabled via --marionette
+1530491767123	Marionette	INFO	Listening on port 49855
+1530491767142	Marionette	INFO	Listening on port 49855
+1530491767909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530491772998	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530491777017	geckodriver	INFO	geckodriver 0.19.1
+1530491777023	geckodriver	INFO	Listening on 127.0.0.1:49938
+1530491778334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.U5HVjSZQWk1g"
+1530491779265	Marionette	INFO	Enabled via --marionette
+1530491780454	Marionette	INFO	Listening on port 49945
+1530491780466	Marionette	INFO	Listening on port 49945
+1530491781467	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+JavaScript error: http://172.31.31.111/Borrow/index/mortgage.html, line 1: ReferenceError: moneys is not defined
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.
+log4cplus:ERROR No appenders could be found for logger (AdSyncNamespace).
+log4cplus:ERROR Please initialize the log4cplus system properly.

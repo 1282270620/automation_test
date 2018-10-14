@@ -1,0 +1,12 @@
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 87, in test_assertbid_info
+    PGP.into_investment_record()
+  File "C:\mydemo\p2p_framework\pageObject\paymentGoodsObject.py", line 53, in into_investment_record
+    self.click(self.money_management)
+AttributeError: 'PaymentGoodsPage' object has no attribute 'money_management'
+
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~

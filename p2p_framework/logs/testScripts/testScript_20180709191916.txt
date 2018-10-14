@@ -1,0 +1,36 @@
+setUpClass 正在执行中~~~~~
+setUpClass 执行完成~~~~~
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 83, in test_assertbid_info
+    MA.into_tender_loan()
+  File "C:\mydemo\p2p_framework\pageObject\MyAccount.py", line 18, in into_tender_loan
+    self.click(self.tender_loan)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 52, in click
+    self.find_element(loc).click()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\expected_conditions.py", line 127, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\expected_conditions.py", line 402, in _find_element
+    raise e
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\expected_conditions.py", line 398, in _find_element
+    return driver.find_element(*by)
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\remote\webdriver.py", line 855, in find_element
+    'value': value})['value']
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\remote\webdriver.py", line 308, in execute
+    self.error_handler.check_response(response)
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=67.0.3396.62)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~

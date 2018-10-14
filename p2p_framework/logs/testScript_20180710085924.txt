@@ -1,0 +1,12 @@
+setUpClass 正在执行中~~~~~
+setUpClass 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 33, in setUpClass
+    DefineFlash.set_flash()
+  File "C:\mydemo\p2p_framework\utils\setFlash.py", line 44, in set_flash
+    self.screen.click(offset_Path)
+jpype._jexception.org.sikuli.script.FindFailedPyRaisable: FindFailed: C:/mydemo/p2p_framework/testData/add.png: (655x30) in S(0)[0,0 1600x900] E:Y, T:3.0
+  Line 2782, in file Region.java
+
+

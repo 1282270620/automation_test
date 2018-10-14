@@ -1,0 +1,8 @@
+setUpClass 正在执行中~~~~~
+setUpClass 执行完成~~~~~
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 执行完成~~~~~
+test_my_investment 正在执行中~~~~~
+test_my_investment 执行完成~~~~~
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~

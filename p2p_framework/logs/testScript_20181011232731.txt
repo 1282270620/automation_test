@@ -1,0 +1,103 @@
+setUpClass 正在执行中~~~~~
+setUpClass 执行完成~~~~~
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 81, in test_assertbid_info
+    bidder = login(self.driver)
+  File "C:\mydemo\p2p_framework\common\login.py", line 19, in login
+    LO.into_login()
+  File "C:\mydemo\p2p_framework\pageObject\LoginObject.py", line 35, in into_login
+    self.click(self.sign_in)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 52, in click
+    self.find_element(loc).click()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+test_info_assert 正在执行中~~~~~
+test_info_assert 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 56, in test_info_assert
+    log_immediately(self.driver)
+  File "C:\mydemo\p2p_framework\common\login.py", line 33, in log_immediately
+    LO.login_function(para_dict["username"],para_dict["password"])
+  File "C:\mydemo\p2p_framework\pageObject\LoginObject.py", line 29, in login_function
+    self.input_values(self.login_username, username)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 46, in input_values
+    self.find_element(loc).clear()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+test_mortage 正在执行中~~~~~
+test_mortage 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 44, in test_mortage
+    release_mortgage(self.driver)
+  File "C:\mydemo\p2p_framework\common\ReleaseMortgage.py", line 12, in release_mortgage
+    login(driver)
+  File "C:\mydemo\p2p_framework\common\login.py", line 19, in login
+    LO.into_login()
+  File "C:\mydemo\p2p_framework\pageObject\LoginObject.py", line 35, in into_login
+    self.click(self.sign_in)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 52, in click
+    self.find_element(loc).click()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+test_my_investment 正在执行中~~~~~
+test_my_investment 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 68, in test_my_investment
+    log_immediately(self.driver)
+  File "C:\mydemo\p2p_framework\common\login.py", line 33, in log_immediately
+    LO.login_function(para_dict["username"],para_dict["password"])
+  File "C:\mydemo\p2p_framework\pageObject\LoginObject.py", line 29, in login_function
+    self.input_values(self.login_username, username)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 46, in input_values
+    self.find_element(loc).clear()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+test_pledge 正在执行中~~~~~
+test_pledge 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\p2p_framework\utils\log_decorator.py", line 17, in f
+    t = func(*arg)
+  File "C:\mydemo\p2p_framework\testScripts\testScript.py", line 50, in test_pledge
+    release_pledge(self.driver)
+  File "C:\mydemo\p2p_framework\common\ReleasePledge.py", line 11, in release_pledge
+    login(driver)
+  File "C:\mydemo\p2p_framework\common\login.py", line 19, in login
+    LO.into_login()
+  File "C:\mydemo\p2p_framework\pageObject\LoginObject.py", line 35, in into_login
+    self.click(self.sign_in)
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 52, in click
+    self.find_element(loc).click()
+  File "C:\mydemo\p2p_framework\pageObject\BasePage.py", line 35, in find_element
+    WebDriverWait(self.driver, 10, 0.5).until(EC.visibility_of_element_located(loc))
+  File "C:\Python35\lib\site-packages\selenium-3.7.0-py3.5.egg\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~

@@ -1,0 +1,19 @@
+1530008724399	geckodriver	INFO	geckodriver 0.19.1
+1530008724399	geckodriver	INFO	Listening on 127.0.0.1:51836
+1530008725803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.tcJJagLO94kt"
+1530008726757	Marionette	INFO	Enabled via --marionette
+1530008728236	Marionette	INFO	Listening on port 51842
+1530008728250	Marionette	INFO	Listening on port 51842
+1530008729005	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1530161115471	geckodriver	INFO	geckodriver 0.19.1
+1530161115480	geckodriver	INFO	Listening on 127.0.0.1:53692
+1530161116672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.1G0cGnPoJNEZ"
+1530161117713	Marionette	INFO	Enabled via --marionette
+1530161119109	Marionette	INFO	Listening on port 53698
+1530161119196	Marionette	INFO	Listening on port 53698
+1530161119785	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1530161125643	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530161125650	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error

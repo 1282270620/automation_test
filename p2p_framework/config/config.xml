@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <url>http://172.31.31.153/</url>    <!-- url地址 -->
+    <burl>http://172.31.31.153/Admin/Logo.html</burl>		<!-- 后台url地址 -->	
+    <maxid>test</maxid>
+    
+    <login username="admin" passwd='123456'></login>	<!-- 登录账号、密码信息 -->
+	<logon username="root" passwd="123456"></logon>		<!-- 登录账号、密码信息 -->
+	<loc username="admin" passwd="admin"></loc>		<!-- 管理管理员账户登录 -->
+	
+	<mysql host="172.31.31.153" user="root" passwd="" db="p2p" charset="utf8"></mysql>		<!-- 连接数据，数据库类型 -->		
+
+	
+</catalog>

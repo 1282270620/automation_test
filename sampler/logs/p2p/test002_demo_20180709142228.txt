@@ -1,0 +1,14 @@
+test_01 正在执行中~~~~~
+test_01 正在执行过程中断言失败：'xxx' != 'xx'
+- xxx
+? -
++ xx
+
+test_02 正在执行中~~~~~
+test_02 正在执行过程中出异常了：Traceback (most recent call last):
+  File "C:\mydemo\sampler\base\log_decorator.py", line 16, in f
+    t = func(*arg)
+  File "C:\mydemo\sampler\p2p\test002_demo.py", line 30, in test_02
+    raise KeyError("故意的")
+KeyError: '故意的'
+

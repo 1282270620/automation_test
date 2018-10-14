@@ -1,0 +1,6 @@
+setUpClass 正在执行中~~~~~
+setUpClass 执行完成~~~~~
+test_assertbid_info 正在执行中~~~~~
+test_assertbid_info 正在执行过程中断言失败：['性能测试', '性能测试', '性能测试', '接口自动化测试', '接口自动化测试', '接口自动化测试'] not found in ['性能测试', '性能测试', '性能测试', '接口自动化测试', '接口自动化测试', '接口自动化测试']
+tearDownClass 正在执行中~~~~~
+tearDownClass 执行完成~~~~~
