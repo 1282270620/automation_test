@@ -38,6 +38,7 @@ class Get_PerformanceData_Actual_DTVRCX():
         Achiev=Ppage.get_anyKPIValueOfTotal(2,9)
         SITE_KPI={"CombinedGoalRate":CombinedGoalRate,"WBAttainmant":WBAttainmant,"CCTAttainmant":CCTAttainmant,"DISCAttainmant":DISCAttainmant,"IPBBGrossSales":IPBBGrossSales,"BroadbandAttachRate":BroadbandAttachRate,"AgentSatisfaction":AgentSatisfaction,"Achiev":Achiev}
         return SITE_KPI
+	'''
     def get_DTVRCX_TEAM_Data_(self):#TEAM:lineindex=3
         Ppage=PerformancePage()
         CombinedGoalRate=Ppage.get_anyKPIValueOfTotal(3,2)
@@ -50,7 +51,7 @@ class Get_PerformanceData_Actual_DTVRCX():
         Achiev=Ppage.get_anyKPIValueOfTotal(3,9)
         TEAM_KPI={"CombinedGoalRate":CombinedGoalRate,"WBAttainmant":WBAttainmant,"CCTAttainmant":CCTAttainmant,"DISCAttainmant":DISCAttainmant,"IPBBGrossSales":IPBBGrossSales,"BroadbandAttachRate":BroadbandAttachRate,"AgentSatisfaction":AgentSatisfaction,"Achiev":Achiev}
         return TEAM_KPI
-    
+    '''
     
     def get_Achievement_Data(self,lineindex):
         Ppage=PerformancePage()
